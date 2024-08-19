@@ -1,0 +1,1 @@
+The dataset contains 5967 images distributed across 6 classes: Bathroom, Bedroom, Living Room, Kitchen, Front Yard, and Backyard. The number of images varies across classes, but each class contains at least 700 images.  All images are in .jpg format. 
